@@ -1,6 +1,8 @@
 # sequential-learning-interpretation
 
 
+## directions in sequential learning interpretation
+
 
 ## beginner's guide (must-reads)
 
