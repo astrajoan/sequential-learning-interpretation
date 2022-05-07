@@ -8,8 +8,8 @@ Here, we organized papers and articles from difference sources to provide a some
 
 ## to start with
 ### papers
-- [Visualizing and understanding recurrent networks (Andrej Karpathy, Justin Johnson, Li Fei-Fei)](https://arxiv.org/pdf/1506.02078.pdf?ref=https://codemonkey.link)(Andrej Karpathy, Justin Johnson, Li Fei-Fei)
-- [Techniques for Interpretable Machine Learning (Mengnan Du, Ninghao Liu, Xia Hu)](https://arxiv.org/pdf/1808.00033.pdf)
+- [Visualizing and understanding recurrent networks](https://arxiv.org/pdf/1506.02078.pdf?ref=https://codemonkey.link) (Andrej Karpathy, Justin Johnson, Li Fei-Fei)
+- [Techniques for Interpretable Machine Learning](https://arxiv.org/pdf/1808.00033.pdf) (Mengnan Du, Ninghao Liu, Xia Hu)
 
 
 ### articles
@@ -25,17 +25,17 @@ Here, we organized papers and articles from difference sources to provide a some
 
 ### based on model
 #### LSTM
-- [Visualizing and understanding recurrent networks (Andrej Karpathy, Justin Johnson, Li Fei-Fei)](https://arxiv.org/pdf/1506.02078.pdf?ref=https://codemonkey.link)
+- [Visualizing and understanding recurrent networks](https://arxiv.org/pdf/1506.02078.pdf?ref=https://codemonkey.link) (Andrej Karpathy, Justin Johnson, Li Fei-Fei)
 
 
 ### based on data
 #### medical data
-- [Interpretability of time-series deep learning models: A study in cardiovascular patients admitted to Intensive care unit (Ilaria Gandin, Arjuna Scagnetto, Simona Romani, Giulia Barbati)](https://www.sciencedirect.com/science/article/pii/S1532046421002057)
+- [Interpretability of time-series deep learning models: A study in cardiovascular patients admitted to Intensive care unit](https://www.sciencedirect.com/science/article/pii/S1532046421002057) (Ilaria Gandin, Arjuna Scagnetto, Simona Romani, Giulia Barbati)
 
 
 ### based on interpretation methods
-- [On Attribution of Recurrent Neural Network Predictions via Additive Decomposition (Mengnan Du, Ninghao Liu, Fan Yang, Shuiwang Ji, Xia Hu)](https://arxiv.org/pdf/1903.11245.pdf)
-- [Interpretation of Prediction Models Using the Input Gradient (Yotam Hechtlinger)](https://arxiv.org/pdf/1611.07634.pdf?ref=https://githubhelp.com)
+- [On Attribution of Recurrent Neural Network Predictions via Additive Decomposition](https://arxiv.org/pdf/1903.11245.pdf) (Mengnan Du, Ninghao Liu, Fan Yang, Shuiwang Ji, Xia Hu)
+- [Interpretation of Prediction Models Using the Input Gradient](https://arxiv.org/pdf/1611.07634.pdf?ref=https://githubhelp.com) (Yotam Hechtlinger)
 
 
 
