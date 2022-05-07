@@ -8,7 +8,7 @@ Here, we organized papers and articles from difference sources to provide a some
 
 ## to start with
 ### papers
-- [Visualizing and understanding recurrent networks (Andrej Karpathy, Justin Johnson, Li Fei-Fei)](https://arxiv.org/pdf/1506.02078.pdf?ref=https://codemonkey.link)
+- [Visualizing and understanding recurrent networks (Andrej Karpathy, Justin Johnson, Li Fei-Fei)](https://arxiv.org/pdf/1506.02078.pdf?ref=https://codemonkey.link)(Andrej Karpathy, Justin Johnson, Li Fei-Fei)
 - [Techniques for Interpretable Machine Learning (Mengnan Du, Ninghao Liu, Xia Hu)](https://arxiv.org/pdf/1808.00033.pdf)
 
 
