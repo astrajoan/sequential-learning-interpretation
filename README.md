@@ -9,6 +9,7 @@ Here, we organized papers and articles from difference sources to provide a some
 ## to start with
 ### papers
 - [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938.pdf?ref=morioh.com) (Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin)
+- [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](https://arxiv.org/pdf/1406.1078.pdf?ref=https://codemonkey.link) (Kyunghyun Cho, Bart van Merrienboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk, Yoshua Bengio)
 - [Visualizing and understanding recurrent networks](https://arxiv.org/pdf/1506.02078.pdf?ref=https://codemonkey.link) (Andrej Karpathy, Justin Johnson, Li Fei-Fei)
 - [Techniques for Interpretable Machine Learning](https://arxiv.org/pdf/1808.00033.pdf) (Mengnan Du, Ninghao Liu, Xia Hu)
 
@@ -37,10 +38,19 @@ Here, we organized papers and articles from difference sources to provide a some
 
 #### natural language
 - [Explaining Recurrent Neural Network Predictions in Sentiment Analysis](https://arxiv.org/pdf/1706.07206.pdf) (Leila Arras, Gregoire Montavon, Klaus-Robert Muller, Wojciech Samek)
+- [Visualizing and Understanding Neural Models in NLP](https://arxiv.org/pdf/1506.01066.pdf) (Jiwei Li, Xinlei Chen, Eduard Hovy and Dan Jurafsky)
+- [A Compositional and Interpretable Semantic Space](https://aclanthology.org/N15-1004.pdf) (Alona Fyshe, Leila Wehbe, Partha Talukdar, Brian Murphy, Tom Mitchell)
 
 
 ### based on interpretation methods
 - [On Attribution of Recurrent Neural Network Predictions via Additive Decomposition](https://arxiv.org/pdf/1903.11245.pdf) (Mengnan Du, Ninghao Liu, Fan Yang, Shuiwang Ji, Xia Hu)
+
+
+#### composition
+- [A Compositional and Interpretable Semantic Space](https://aclanthology.org/N15-1004.pdf) (Alona Fyshe, Leila Wehbe, Partha Talukdar, Brian Murphy, Tom Mitchell)
+
+
+#### gradient
 - [Interpretation of Prediction Models Using the Input Gradient](https://arxiv.org/pdf/1611.07634.pdf?ref=https://githubhelp.com) (Yotam Hechtlinger)
 
 
