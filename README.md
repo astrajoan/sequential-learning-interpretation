@@ -12,6 +12,7 @@ Here, we organized papers and articles from difference sources to provide a some
 - [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](https://arxiv.org/pdf/1406.1078.pdf?ref=https://codemonkey.link) (Kyunghyun Cho, Bart van Merrienboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk, Yoshua Bengio)
 - [Visualizing and understanding recurrent networks](https://arxiv.org/pdf/1506.02078.pdf?ref=https://codemonkey.link) (Andrej Karpathy, Justin Johnson, Li Fei-Fei)
 - [Techniques for Interpretable Machine Learning](https://arxiv.org/pdf/1808.00033.pdf) (Mengnan Du, Ninghao Liu, Xia Hu)
+- [On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0130140&type=printable&ref=https://githubhelp.com) (Sebastian Bach, Alexander Binder, Grégoire Montavon, Frederick Klauschen, Klaus-Robert Müller, Wojciech Samek)
 
 
 ### articles
@@ -43,15 +44,16 @@ Here, we organized papers and articles from difference sources to provide a some
 
 
 ### based on interpretation methods
-- [On Attribution of Recurrent Neural Network Predictions via Additive Decomposition](https://arxiv.org/pdf/1903.11245.pdf) (Mengnan Du, Ninghao Liu, Fan Yang, Shuiwang Ji, Xia Hu)
-
-
 #### composition
+- [On Attribution of Recurrent Neural Network Predictions via Additive Decomposition](https://arxiv.org/pdf/1903.11245.pdf) (Mengnan Du, Ninghao Liu, Fan Yang, Shuiwang Ji, Xia Hu)
 - [A Compositional and Interpretable Semantic Space](https://aclanthology.org/N15-1004.pdf) (Alona Fyshe, Leila Wehbe, Partha Talukdar, Brian Murphy, Tom Mitchell)
 
 
 #### gradient
 - [Interpretation of Prediction Models Using the Input Gradient](https://arxiv.org/pdf/1611.07634.pdf?ref=https://githubhelp.com) (Yotam Hechtlinger)
 
+
+#### sparse constraint
+- [Learning Effective and Interpretable Semantic Models using Non-Negative Sparse Embedding](https://aclanthology.org/C12-1118.pdf) (Brian Murphy, Partha Pratim Talukdar, Tom Mitchell)
 
 
