@@ -41,6 +41,9 @@ Here, we organized papers and articles from difference sources to provide a some
 
 ### based on interpretation methods
 - [On Attribution of Recurrent Neural Network Predictions via Additive Decomposition](https://arxiv.org/pdf/1903.11245.pdf) (Mengnan Du, Ninghao Liu, Fan Yang, Shuiwang Ji, Xia Hu)
+
+
+#### gradient
 - [Interpretation of Prediction Models Using the Input Gradient](https://arxiv.org/pdf/1611.07634.pdf?ref=https://githubhelp.com) (Yotam Hechtlinger)
 
 
