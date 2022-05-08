@@ -8,6 +8,7 @@ Here, we organized papers and articles from difference sources to provide a some
 
 ## to start with
 ### papers
+- [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938.pdf?ref=morioh.com) (Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin)
 - [Visualizing and understanding recurrent networks](https://arxiv.org/pdf/1506.02078.pdf?ref=https://codemonkey.link) (Andrej Karpathy, Justin Johnson, Li Fei-Fei)
 - [Techniques for Interpretable Machine Learning](https://arxiv.org/pdf/1808.00033.pdf) (Mengnan Du, Ninghao Liu, Xia Hu)
 
@@ -31,6 +32,11 @@ Here, we organized papers and articles from difference sources to provide a some
 ### based on data
 #### medical data
 - [Interpretability of time-series deep learning models: A study in cardiovascular patients admitted to Intensive care unit](https://www.sciencedirect.com/science/article/pii/S1532046421002057) (Ilaria Gandin, Arjuna Scagnetto, Simona Romani, Giulia Barbati)
+- [Interpreting a Recurrent Neural Network’s Predictions of ICU Mortality Risk](https://arxiv.org/pdf/1905.09865.pdf) (Long V. Hoa, Melissa Aczona, David Ledbettera, Randall Wetzela)
+
+
+#### natural language
+- [Explaining Recurrent Neural Network Predictions in Sentiment Analysis](https://arxiv.org/pdf/1706.07206.pdf) (Leila Arras, Gregoire Montavon, Klaus-Robert Muller, Wojciech Samek)
 
 
 ### based on interpretation methods
