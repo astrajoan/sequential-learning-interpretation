@@ -9,11 +9,11 @@ Here, we organized papers and articles from difference sources to provide a some
 
 ## to start with
 ### papers
-- [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938.pdf?ref=morioh.com)  
+- [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938.pdf?ref=morioh.com)\
 (any model, text and image, local approximation, LIME)
 - [A Unified Approach to Interpreting Model Predictions](https://proceedings.neurips.cc/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf) (Scott M. Lundberg, Su-In Lee)
-- [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](https://arxiv.org/pdf/1406.1078.pdf?ref=https://codemonkey.link)
-  (RNN encoder-decoder, natural language, novel hidden unit)
+- [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](https://arxiv.org/pdf/1406.1078.pdf?ref=https://codemonkey.link)\
+(RNN encoder-decoder, natural language, novel hidden unit)
 - [Visualizing and understanding recurrent networks](https://arxiv.org/pdf/1506.02078.pdf?ref=https://codemonkey.link) (Andrej Karpathy, Justin Johnson, Li Fei-Fei)
 - [Techniques for Interpretable Machine Learning](https://arxiv.org/pdf/1808.00033.pdf) (overview of different models and techniques)
 - [On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0130140&type=printable&ref=https://githubhelp.com) (nonlinear classifiers, computer vision, Layer-Wise Relevance Propagation)
