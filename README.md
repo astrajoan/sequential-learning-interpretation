@@ -4,7 +4,8 @@ Deep learning, and in particular, recurrent neural networks, has in recent years
 Here, we organized papers and articles from difference sources to provide a somewhat full-around overview of the development in this area.
 
 ## directions in sequential learning interpretation
-
+### definition
+- [Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/pdf/1702.08608.pdf) (Finale Doshi-Velez, Been Kim)
 
 ## to start with
 ### papers
