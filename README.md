@@ -21,44 +21,28 @@ Here, we organized papers and articles from difference sources to provide a some
 - [Interpreting recurrent neural networks on multivariate time series](https://towardsdatascience.com/interpreting-recurrent-neural-networks-on-multivariate-time-series-ebec0edb8f5a)
 
 
-## interpretation principle
-- [based on model](#based-on-model)
-- [based on data](#based-on-data)
-- [based on interpretation methods](#based-on-interpretation-methods)
-
-
-
-### based on model
-#### LSTM
-- [Visualizing and understanding recurrent networks](https://arxiv.org/pdf/1506.02078.pdf?ref=https://codemonkey.link) (Andrej Karpathy, Justin Johnson, Li Fei-Fei)
-
-
-### based on data
-#### medical data
-- [Interpretability of time-series deep learning models: A study in cardiovascular patients admitted to Intensive care unit](https://www.sciencedirect.com/science/article/pii/S1532046421002057) (Ilaria Gandin, Arjuna Scagnetto, Simona Romani, Giulia Barbati)
+## based on interpretation methods
+### SHAP
 - [Interpreting a Recurrent Neural Network’s Predictions of ICU Mortality Risk](https://arxiv.org/pdf/1905.09865.pdf) (Long V. Hoa, Melissa Aczona, David Ledbettera, Randall Wetzela)
 
 
-#### natural language
-- [Explaining Recurrent Neural Network Predictions in Sentiment Analysis](https://arxiv.org/pdf/1706.07206.pdf) (Leila Arras, Gregoire Montavon, Klaus-Robert Muller, Wojciech Samek)
-- [Visualizing and Understanding Neural Models in NLP](https://arxiv.org/pdf/1506.01066.pdf) (Jiwei Li, Xinlei Chen, Eduard Hovy and Dan Jurafsky)
-- [A Compositional and Interpretable Semantic Space](https://aclanthology.org/N15-1004.pdf) (Alona Fyshe, Leila Wehbe, Partha Talukdar, Brian Murphy, Tom Mitchell)
 
-
-### based on interpretation methods
-#### composition
+### composition
 - [On Attribution of Recurrent Neural Network Predictions via Additive Decomposition](https://arxiv.org/pdf/1903.11245.pdf) (Mengnan Du, Ninghao Liu, Fan Yang, Shuiwang Ji, Xia Hu)
-- [A Compositional and Interpretable Semantic Space](https://aclanthology.org/N15-1004.pdf) (Alona Fyshe, Leila Wehbe, Partha Talukdar, Brian Murphy, Tom Mitchell)
+- [Visualizing and Understanding Neural Models in NLP](https://arxiv.org/pdf/1506.01066.pdf) (Jiwei Li, Xinlei Chen, Eduard Hovy and Dan Jurafsky)
 
 
-#### gradient
+### gradient
 - [Interpretation of Prediction Models Using the Input Gradient](https://arxiv.org/pdf/1611.07634.pdf?ref=https://githubhelp.com) (Yotam Hechtlinger)
 
 
-#### sparse constraint
-- [Learning Effective and Interpretable Semantic Models using Non-Negative Sparse Embedding](https://aclanthology.org/C12-1118.pdf) (Brian Murphy, Partha Pratim Talukdar, Tom Mitchell)
+### sparse constraint
 
 
-#### backpropagation
+### backpropagation
 - [Explaining Recurrent Neural Network Predictions in Sentiment Analysis](https://arxiv.org/pdf/1706.07206.pdf) (Leila Arras, Gregoire Montavon, Klaus-Robert Muller, Wojciech Samek)
+
+
+### attention
+- [Interpretability of time-series deep learning models: A study in cardiovascular patients admitted to Intensive care unit](https://www.sciencedirect.com/science/article/pii/S1532046421002057) (Ilaria Gandin, Arjuna Scagnetto, Simona Romani, Giulia Barbati)
 
