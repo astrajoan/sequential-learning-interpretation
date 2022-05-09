@@ -10,15 +10,16 @@ Here, we organized papers and articles from difference sources to provide a some
 ## to start with
 ### papers
 - [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938.pdf?ref=morioh.com)\
-keywords: any model, text and image, local approximation, LIME
+        **keywords**: any model, text and image, local approximation, LIME
 - [A Unified Approach to Interpreting Model Predictions](https://proceedings.neurips.cc/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf) (Scott M. Lundberg, Su-In Lee)
 - [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](https://arxiv.org/pdf/1406.1078.pdf?ref=https://codemonkey.link)\
-keywords: RNN encoder-decoder, natural language, novel hidden unit
-- [Visualizing and understanding recurrent networks](https://arxiv.org/pdf/1506.02078.pdf?ref=https://codemonkey.link) (Andrej Karpathy, Justin Johnson, Li Fei-Fei)
+        **keywords**: RNN encoder-decoder, natural language, novel hidden unit
+- [Visualizing and understanding recurrent networks](https://arxiv.org/pdf/1506.02078.pdf?ref=https://codemonkey.link)\
+        **keywords**: LSTM, natural language, revealed cells that identify interpretable and high-level patterns, long-range dependency, error analysis
 - [Techniques for Interpretable Machine Learning](https://arxiv.org/pdf/1808.00033.pdf)\
-        keywords: overview of different models and techniques
+        **keywords**: overview of different models and interpretation techniques
 - [On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0130140&type=printable&ref=https://githubhelp.com)\
-keywords: nonlinear classifiers, computer vision, Layer-Wise Relevance Propagation
+        **keywords**: nonlinear classifiers, computer vision, Layer-Wise Relevance Propagation
 
 
 ### articles
@@ -28,20 +29,20 @@ keywords: nonlinear classifiers, computer vision, Layer-Wise Relevance Propagati
 ## based on interpretation methods
 ### SHAP
 - [Interpreting a Recurrent Neural Network’s Predictions of ICU Mortality Risk](https://arxiv.org/pdf/1905.09865.pdf)\
-keywords: LSTM, dt-patient-matrix, Learned Binary Masks (LBM), KernelSHAP
+        **keywords**: LSTM, dt-patient-matrix, Learned Binary Masks (LBM), KernelSHAP
 
 
 
 ### composition
 - [On Attribution of Recurrent Neural Network Predictions via Additive Decomposition](https://arxiv.org/pdf/1903.11245.pdf)\
-keywords: LSTM, GRU, Bidirectional GRU, sentiment text, Stanford Sentiment Treebank 2 (SST2), Yelp Polarity (Yelp), decomposition, REAT
+        **keywords**: LSTM, GRU, Bidirectional GRU, sentiment text, Stanford Sentiment Treebank 2 (SST2), Yelp Polarity (Yelp), decomposition, REAT
 - [Visualizing and Understanding Neural Models in NLP](https://arxiv.org/pdf/1506.01066.pdf)\
-keywords: RNN, LSTM, Bidirectional LSTM, sentiment text, Stanford Sentiment Treebank, compositionality, unit salience
+        **keywords**: RNN, LSTM, Bidirectional LSTM, sentiment text, Stanford Sentiment Treebank, compositionality, unit salience
 
 
 ### gradient
 - [Interpretation of Prediction Models Using the Input Gradient](https://arxiv.org/pdf/1611.07634.pdf?ref=https://githubhelp.com)\
-keywords: any model, Bag of Words, gradient
+        **keywords**: any model, Bag of Words, gradient
 
 
 ### sparse constraint
@@ -49,10 +50,10 @@ keywords: any model, Bag of Words, gradient
 
 ### backpropagation
 - [Explaining Recurrent Neural Network Predictions in Sentiment Analysis](https://arxiv.org/pdf/1706.07206.pdf)\
-keywords: LSTM,  bidirectional LSTM, sentiment text, Stanford Sentiment Treebank, Layer-wise Relevance Propagation (LRP)
+        **keywords**: LSTM,  bidirectional LSTM, sentiment text, Stanford Sentiment Treebank, Layer-wise Relevance Propagation (LRP)
 
 
 ### attention
 - [Interpretability of time-series deep learning models: A study in cardiovascular patients admitted to Intensive care unit](https://www.sciencedirect.com/science/article/pii/S1532046421002057)\
-keywords: LSTM, EHRs data-stream, attention, activation maps
+        **keywords**: LSTM, EHRs data-stream, attention, activation maps
 
