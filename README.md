@@ -9,9 +9,8 @@ Here, we organized papers and articles from difference sources to provide a some
 
 ## to start with
 ### papers
-- [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938.pdf?ref=morioh.com)
-
-  (any model, text and image, local approximation, LIME)
+- [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938.pdf?ref=morioh.com)  
+(any model, text and image, local approximation, LIME)
 - [A Unified Approach to Interpreting Model Predictions](https://proceedings.neurips.cc/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf) (Scott M. Lundberg, Su-In Lee)
 - [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](https://arxiv.org/pdf/1406.1078.pdf?ref=https://codemonkey.link)
   (RNN encoder-decoder, natural language, novel hidden unit)
