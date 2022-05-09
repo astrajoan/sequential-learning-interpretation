@@ -5,7 +5,7 @@ Here, we organized papers and articles from difference sources to provide a some
 
 ## directions in sequential learning interpretation
 ### definition
-- [Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/pdf/1702.08608.pdf) (Finale Doshi-Velez, Been Kim)
+- [Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/pdf/1702.08608.pdf) (Finale Doshi-Velez, Been Kim; 2017)
 
 ## to start with
 ### papers
