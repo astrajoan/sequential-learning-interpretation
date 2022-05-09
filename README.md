@@ -9,12 +9,14 @@ Here, we organized papers and articles from difference sources to provide a some
 
 ## to start with
 ### papers
-- [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938.pdf?ref=morioh.com) (Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin)
+- [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938.pdf?ref=morioh.com)
+  (any model, text and image, local approximation, LIME)
 - [A Unified Approach to Interpreting Model Predictions](https://proceedings.neurips.cc/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf) (Scott M. Lundberg, Su-In Lee)
-- [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](https://arxiv.org/pdf/1406.1078.pdf?ref=https://codemonkey.link) (Kyunghyun Cho, Bart van Merrienboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk, Yoshua Bengio)
+- [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](https://arxiv.org/pdf/1406.1078.pdf?ref=https://codemonkey.link)
+  (RNN encoder-decoder, natural language, novel hidden unit)
 - [Visualizing and understanding recurrent networks](https://arxiv.org/pdf/1506.02078.pdf?ref=https://codemonkey.link) (Andrej Karpathy, Justin Johnson, Li Fei-Fei)
-- [Techniques for Interpretable Machine Learning](https://arxiv.org/pdf/1808.00033.pdf) (Mengnan Du, Ninghao Liu, Xia Hu)
-- [On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0130140&type=printable&ref=https://githubhelp.com) (Sebastian Bach, Alexander Binder, Grégoire Montavon, Frederick Klauschen, Klaus-Robert Müller, Wojciech Samek)
+- [Techniques for Interpretable Machine Learning](https://arxiv.org/pdf/1808.00033.pdf) (overview of different models and techniques)
+- [On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0130140&type=printable&ref=https://githubhelp.com) (nonlinear classifiers, computer vision, Layer-Wise Relevance Propagation)
 
 
 ### articles
@@ -23,12 +25,12 @@ Here, we organized papers and articles from difference sources to provide a some
 
 ## based on interpretation methods
 ### SHAP
-- [Interpreting a Recurrent Neural Network’s Predictions of ICU Mortality Risk](https://arxiv.org/pdf/1905.09865.pdf) (Long V. Hoa, Melissa Aczona, David Ledbettera, Randall Wetzela)
+- [Interpreting a Recurrent Neural Network’s Predictions of ICU Mortality Risk](https://arxiv.org/pdf/1905.09865.pdf) (LSTM, dt-patient-matrix, Learned Binary Masks (LBM), KernelSHAP)
 
 
 
 ### composition
-- [On Attribution of Recurrent Neural Network Predictions via Additive Decomposition](https://arxiv.org/pdf/1903.11245.pdf) (Mengnan Du, Ninghao Liu, Fan Yang, Shuiwang Ji, Xia Hu)
+- [On Attribution of Recurrent Neural Network Predictions via Additive Decomposition](https://arxiv.org/pdf/1903.11245.pdf) (LSTM, GRU, Bidirectional GRU, sentiment text, Stanford Sentiment Treebank 2 (SST2), Yelp Polarity (Yelp), decomposition, REAT)
 - [Visualizing and Understanding Neural Models in NLP](https://arxiv.org/pdf/1506.01066.pdf) (Jiwei Li, Xinlei Chen, Eduard Hovy and Dan Jurafsky)
 
 
