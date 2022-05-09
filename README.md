@@ -58,3 +58,6 @@ Here, we organized papers and articles from difference sources to provide a some
 - [Learning Effective and Interpretable Semantic Models using Non-Negative Sparse Embedding](https://aclanthology.org/C12-1118.pdf) (Brian Murphy, Partha Pratim Talukdar, Tom Mitchell)
 
 
+#### backpropagation
+- [Explaining Recurrent Neural Network Predictions in Sentiment Analysis](https://arxiv.org/pdf/1706.07206.pdf) (Leila Arras, Gregoire Montavon, Klaus-Robert Muller, Wojciech Samek)
+
