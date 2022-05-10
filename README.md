@@ -9,7 +9,7 @@ Here, we organized papers and articles from difference sources to provide a some
 ### definition
 
 - [Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/pdf/1702.08608.pdf)\
-        **keywords**: definition of interpretability, incompleteness, txonomy of evaluation, latent dimensions
+        **keywords**: definition of interpretability, incompleteness, taxonomy of evaluation, latent dimensions
 
 ## to start with
 
@@ -26,7 +26,10 @@ Here, we organized papers and articles from difference sources to provide a some
 - [Techniques for Interpretable Machine Learning](https://arxiv.org/pdf/1808.00033.pdf)\
         **keywords**: overview of different models and interpretation techniques
 - [On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0130140&type=printable&ref=https://githubhelp.com)\
-        **keywords**: nonlinear classifiers, computer vision, Layer-Wise Relevance Propagation
+        **keywords**: nonlinear classifiers, image, Layer-Wise Relevance Propagation
+- [Benchmarking Deep Learning Interpretability in Time Series Predictions](https://proceedings.neurips.cc/paper/2020/file/47a3893cc405396a5c30d91320572d6d-Paper.pdf)\
+        **keywords**: RNN, Temporal Convolutional Networks, Transformers, synthetic time series data, saliency-based interpretability methods, two-step temporal saliency
+rescaling (TSR)
 
 
 ### articles
