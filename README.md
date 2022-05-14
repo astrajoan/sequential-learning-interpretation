@@ -21,6 +21,8 @@ Here, we organized papers and articles from difference sources to provide a some
         **keywords**: model agnostic, data agnostic, MNIST, SHAP
 - [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](https://arxiv.org/pdf/1406.1078.pdf?ref=https://codemonkey.link)\
         **keywords**: RNN encoder-decoder, natural language, novel hidden unit
+- [Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey](https://arxiv.org/pdf/2104.00950.pdf)\
+        **keywords**: CNN, RNN, explainable AI methods, time series, natural language, backpropagation-based methods, perturbation-based methods, attention, Symbolic Aggregate Approximation (SAX), Fuzzy Logic
 - [Visualizing and understanding recurrent networks](https://arxiv.org/pdf/1506.02078.pdf?ref=https://codemonkey.link)\
         **keywords**: LSTM, natural language, revealed cells that identify interpretable and high-level patterns, long-range dependency, error analysis
 - [Techniques for Interpretable Machine Learning](https://arxiv.org/pdf/1808.00033.pdf)\
@@ -74,4 +76,25 @@ rescaling (TSR)
 
 - [Interpretability of time-series deep learning models: A study in cardiovascular patients admitted to Intensive care unit](https://www.sciencedirect.com/science/article/pii/S1532046421002057)\
         **keywords**: LSTM, EHRs data-stream, attention, activation maps
+- [Show Me What You’re Looking For: Visualizing Abstracted Transformer Attention for Enhancing Their Local Interpretability on Time Series Data](https://martin.atzmueller.net/paper/VisualizingAbstractedTransformerAttentionLocalInterpretability-SchwenkeAtzmueller-2021-preprint.pdf)\
+        **keywords**: Transformer, Synthetic Control Chart, ECG5000, attention, data abstraction, Symbolic Aggregate Approximation (SAX), according visualization
 
+
+### saliency
+
+- [Benchmarking Deep Learning Interpretability in Time Series Predictions](https://proceedings.neurips.cc/paper/2020/file/47a3893cc405396a5c30d91320572d6d-Paper.pdf)\
+        **keywords**: RNN, Temporal Convolutional Networks, Transformers, synthetic time series data, saliency-based interpretability methods, two-step temporal saliency, rescaling (TSR)
+- [Two Birds with One Stone: Series Saliency for Accurate and Interpretable Multivariate Time Series Forecasting](https://www.ijcai.org/proceedings/2021/0397.pdf)\
+        **keywords**: model agnostic, time series, electricity, Air-quality, Industry data, series saliency
+
+
+### erasure
+
+- [Understanding Neural Networks through Representation Erasure](https://arxiv.org/pdf/1612.08220.pdf?ref=https://githubhelp.com)\
+        **keywords**: Bi-LSTM, Uni-LSTM, RNN, natural language, lexical, sentiment, document, conputing impact of erasure on evaluation metrics, reinforcement learning, erase minimum set of input words to flip a decision
+
+
+## interpretation evaluation metrics
+
+- [Don’t Get Me Wrong: How to apply Deep Visual Interpretations to Time Series](https://arxiv.org/pdf/2203.07861.pdf)\
+        **keywords**: gradient- or perturbation-based post-hoc visual interpretation, sanity, faithfulness, sensitivity, robustness, stability, localization
