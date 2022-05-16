@@ -75,7 +75,7 @@ Here, we organized papers and articles from difference sources to provide a some
 - [Focusing on What is Relevant: Time-Series Learning and Understanding using Attention](https://arxiv.org/pdf/1806.08523.pdf)\
         **keywords**: temporal contextual layer, time series, motion capture, key frame detection, action classification
 - [Explainable Tensorized Neural Ordinary Differential Equations for Arbitrary-step Time Series Prediction](https://arxiv.org/pdf/2011.13174.pdf)\
-        **keywords**: ETN-ODE, tandem attention, tensorized GRU, multivariate time series, arbitrary-step prediction, multi-step prediction
+        **keywords**: ETN-ODE, tensorized GRU, multivariate time series, tandem attention, arbitrary-step prediction, multi-step prediction
 
 ### saliency
 
