@@ -30,9 +30,7 @@ Here, we organized papers and articles from difference sources to provide a some
 - [On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0130140&type=printable&ref=https://githubhelp.com)\
         **keywords**: nonlinear classifiers, image, Layer-Wise Relevance Propagation
 - [Benchmarking Deep Learning Interpretability in Time Series Predictions](https://proceedings.neurips.cc/paper/2020/file/47a3893cc405396a5c30d91320572d6d-Paper.pdf)\
-        **keywords**: RNN, Temporal Convolutional Networks, Transformers, synthetic time series data, saliency-based interpretability methods, two-step temporal saliency
-rescaling (TSR)
-
+        **keywords**: RNN, Temporal Convolutional Networks, Transformers, synthetic time series data, saliency-based interpretability methods, two-step temporal saliency rescaling (TSR)
 
 ### articles
 
@@ -47,8 +45,6 @@ rescaling (TSR)
 - [Interpreting a Recurrent Neural Network’s Predictions of ICU Mortality Risk](https://arxiv.org/pdf/1905.09865.pdf)\
         **keywords**: LSTM, dt-patient-matrix, Learned Binary Masks (LBM), KernelSHAP
 
-
-
 ### composition
 
 - [On Attribution of Recurrent Neural Network Predictions via Additive Decomposition](https://arxiv.org/pdf/1903.11245.pdf)\
@@ -62,7 +58,6 @@ rescaling (TSR)
 - [Interpretation of Prediction Models Using the Input Gradient](https://arxiv.org/pdf/1611.07634.pdf?ref=https://githubhelp.com)\
         **keywords**: model agnostic, Bag of Words, gradient
 
-
 ### sparse constraint
 
 
@@ -71,28 +66,37 @@ rescaling (TSR)
 - [Explaining Recurrent Neural Network Predictions in Sentiment Analysis](https://arxiv.org/pdf/1706.07206.pdf)\
         **keywords**: LSTM,  bidirectional LSTM, sentiment text, Stanford Sentiment Treebank, Layer-wise Relevance Propagation (LRP)
 
-
 ### attention
 
 - [Interpretability of time-series deep learning models: A study in cardiovascular patients admitted to Intensive care unit](https://www.sciencedirect.com/science/article/pii/S1532046421002057)\
         **keywords**: LSTM, EHRs data-stream, attention, activation maps
 - [Show Me What You’re Looking For: Visualizing Abstracted Transformer Attention for Enhancing Their Local Interpretability on Time Series Data](https://martin.atzmueller.net/paper/VisualizingAbstractedTransformerAttentionLocalInterpretability-SchwenkeAtzmueller-2021-preprint.pdf)\
         **keywords**: Transformer, Synthetic Control Chart, ECG5000, attention, data abstraction, Symbolic Aggregate Approximation (SAX), according visualization
-
+- [Focusing on What is Relevant: Time-Series Learning and Understanding using Attention](https://arxiv.org/pdf/1806.08523.pdf)\
+        **keywords**: temporal contextual layer, time series, motion capture, key frame detection, action classification
+- [Explainable Tensorized Neural Ordinary Differential Equations for Arbitrary-step Time Series Prediction](https://arxiv.org/pdf/2011.13174.pdf)\
+        **keywords**: ETN-ODE, tandem attention, tensorized GRU, multivariate time series, arbitrary-step prediction, multi-step prediction
 
 ### saliency
 
 - [Benchmarking Deep Learning Interpretability in Time Series Predictions](https://proceedings.neurips.cc/paper/2020/file/47a3893cc405396a5c30d91320572d6d-Paper.pdf)\
         **keywords**: RNN, Temporal Convolutional Networks, Transformers, synthetic time series data, saliency-based interpretability methods, two-step temporal saliency, rescaling (TSR)
 - [Two Birds with One Stone: Series Saliency for Accurate and Interpretable Multivariate Time Series Forecasting](https://www.ijcai.org/proceedings/2021/0397.pdf)\
-        **keywords**: model agnostic, time series, electricity, Air-quality, Industry data, series saliency
-
+        **keywords**: model agnostic, time series, electricity, air quality, industry data, series saliency
+- [Series Saliency: Temporal Interpretation for Multivariate Time Series Forecasting](https://arxiv.org/pdf/2012.09324.pdf)\
+        **keywords**: model agnostic, series saliency, multivariate time series, temporal feature importance, heatmap visualization
 
 ### erasure
 
 - [Understanding Neural Networks through Representation Erasure](https://arxiv.org/pdf/1612.08220.pdf?ref=https://githubhelp.com)\
-        **keywords**: Bi-LSTM, Uni-LSTM, RNN, natural language, lexical, sentiment, document, conputing impact of erasure on evaluation metrics, reinforcement learning, erase minimum set of input words to flip a decision
+        **keywords**: Bi-LSTM, Uni-LSTM, RNN, natural language, lexical, sentiment, document, computing impact of erasure on evaluation metrics, reinforcement learning, erase minimum set of input words to flip a decision
 
+### autoencoder
+
+- [Electric Energy Consumption Prediction by Deep Learning with State Explainable Autoencoder](https://www.mdpi.com/1996-1073/12/4/739/htm)\
+        **keywords**: LSTM, projector and predictor, energy consumption prediction, state transition, t-SNE algorithm
+- [Explaining Deep Classification of Time-Series Data with Learned Prototypes](https://arxiv.org/pdf/1904.08935.pdf)\
+        **keywords**: autoencoder-prototype, 2-D time series, ECG or respiration or speech waveforms, prototype diversity and robustness
 
 ## interpretation evaluation metrics
 
