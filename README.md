@@ -15,7 +15,7 @@ Here, we organized papers and articles from difference sources to provide a some
 
 ### papers
 
-- [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938.pdf?ref=morioh.com) (SIGKDD 2016)\
+- [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938.pdf?ref=morioh.com) (SIGKDD, 2016)\
         **keywords**: model agnostic, text and image, local approximation, LIME
 - [A Unified Approach to Interpreting Model Predictions](https://proceedings.neurips.cc/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf) (NIPS, 2017)\
         **keywords**: model agnostic, data agnostic, MNIST, SHAP
@@ -23,7 +23,7 @@ Here, we organized papers and articles from difference sources to provide a some
         **keywords**: RNN encoder-decoder, natural language, novel hidden unit
 - [Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey](https://arxiv.org/pdf/2104.00950.pdf) (arXiv, 2021)\
         **keywords**: CNN, RNN, explainable AI methods, time series, natural language, backpropagation-based methods, perturbation-based methods, attention, Symbolic Aggregate Approximation (SAX), Fuzzy Logic
-- [Visualizing and understanding recurrent networks](https://arxiv.org/pdf/1506.02078.pdf?ref=https://codemonkey.link) (ICLR 2016)\
+- [Visualizing and understanding recurrent networks](https://arxiv.org/pdf/1506.02078.pdf?ref=https://codemonkey.link) (ICLR, 2016)\
         **keywords**: LSTM, natural language, revealed cells that identify interpretable and high-level patterns, long-range dependency, error analysis
 - [Techniques for Interpretable Machine Learning](https://arxiv.org/pdf/1808.00033.pdf) (CACM, 2019)\
         **keywords**: overview of different models and interpretation techniques
@@ -68,7 +68,7 @@ Here, we organized papers and articles from difference sources to provide a some
 
 - [Interpretability of time-series deep learning models: A study in cardiovascular patients admitted to Intensive care unit](https://www.sciencedirect.com/science/article/pii/S1532046421002057) (Journal of Biomedical Informatics, 2021)\
         **keywords**: LSTM, EHRs data-stream, attention, activation maps
-- [Show Me What You’re Looking For: Visualizing Abstracted Transformer Attention for Enhancing Their Local Interpretability on Time Series Data](https://martin.atzmueller.net/paper/VisualizingAbstractedTransformerAttentionLocalInterpretability-SchwenkeAtzmueller-2021-preprint.pdf) (The International FLAIRS Conference Proceedings, 2021)\
+- [Show Me What You’re Looking For: Visualizing Abstracted Transformer Attention for Enhancing Their Local Interpretability on Time Series Data](https://martin.atzmueller.net/paper/VisualizingAbstractedTransformerAttentionLocalInterpretability-SchwenkeAtzmueller-2021-preprint.pdf) (FLAIRS, 2021)\
         **keywords**: Transformer, Synthetic Control Chart, ECG5000, attention, data abstraction, Symbolic Aggregate Approximation (SAX), according visualization
 - [Focusing on What is Relevant: Time-Series Learning and Understanding using Attention](https://arxiv.org/pdf/1806.08523.pdf) (ICPR, 2018)\
         **keywords**: temporal contextual layer, time series, motion capture, key frame detection, action classification
@@ -91,7 +91,7 @@ Here, we organized papers and articles from difference sources to provide a some
 
 - [Electric Energy Consumption Prediction by Deep Learning with State Explainable Autoencoder](https://www.mdpi.com/1996-1073/12/4/739/htm) (Energies, 2019)\
         **keywords**: LSTM, projector and predictor, energy consumption prediction, state transition, t-SNE algorithm
-- [Explaining Deep Classification of Time-Series Data with Learned Prototypes](https://arxiv.org/pdf/1904.08935.pdf) (CEUR workshop proceedings, 2019)\
+- [Explaining Deep Classification of Time-Series Data with Learned Prototypes](https://arxiv.org/pdf/1904.08935.pdf) (CEUR, 2019)\
         **keywords**: autoencoder-prototype, 2-D time series, ECG or respiration or speech waveforms, prototype diversity and robustness
 - [Explainable Tensorized Neural Ordinary Differential Equations for Arbitrary-step Time Series Prediction](https://arxiv.org/pdf/2011.13174.pdf) (IEEE Transactions on Knowledge and Data Engineering, 2022)\
         **keywords**: ETN-ODE, tensorized GRU, multivariate time series, tandem attention, arbitrary-step prediction, multi-step prediction
