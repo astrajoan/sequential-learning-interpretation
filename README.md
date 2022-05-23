@@ -109,7 +109,7 @@ Here, we organized papers and articles from difference sources to provide a some
 - [Explainability and Adversarial Robustness for RNNs](https://arxiv.org/pdf/1912.09855.pdf) (BigDataService, 2020)\
         **keywords**: LSTM, network packet flows, adversarial robustness, feature sensitivity, Partial Dependence Plot (PDP), adversarial training
 - [Adversarial Detection with Model Interpretation](https://people.engr.tamu.edu/xiahu/papers/kdd18liu.pdf) (SIGKDD, 2018)\
-        **keywords**: model-agnostic, Twitter dataset, YelpReview, evasion-prone sample selection, local interpretation, defensive distillation, adversarial training
+        **keywords**: model-agnostic, Twitter/YelpReview dataset, evasion-prone sample selection, local interpretation, defensive distillation, adversarial training
 
 ### counterfactual
 
