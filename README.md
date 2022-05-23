@@ -18,11 +18,13 @@ Here, we organized papers and articles from difference sources to provide a some
 - [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938.pdf?ref=morioh.com) (SIGKDD, 2016)\
         **keywords**: model agnostic, text and image, local approximation, LIME
 - [A Unified Approach to Interpreting Model Predictions](https://proceedings.neurips.cc/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf) (NIPS, 2017)\
-        **keywords**: model agnostic, data agnostic, MNIST, SHAP
+        **keywords**: model agnostic, data agnostic, kernel SHAP, linear regression
 - [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](https://arxiv.org/pdf/1406.1078.pdf?ref=https://codemonkey.link) (EMNLP, 2014)\
         **keywords**: RNN encoder-decoder, natural language, novel hidden unit
 - [Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey](https://arxiv.org/pdf/2104.00950.pdf) (arXiv, 2021)\
         **keywords**: CNN, RNN, explainable AI methods, time series, natural language, backpropagation-based methods, perturbation-based methods, attention, Symbolic Aggregate Approximation (SAX), Fuzzy Logic
+- [Towards a Rigorous Evaluation of XAI Methods on Time Series](https://arxiv.org/pdf/1909.07082.pdf) (ICCVW, 2019)\
+        **keywords**: model-agnostic, time series, perturbation and sequence based evaluation, SHAP, DeepLIFT, LRP, Saliency Map, LIME
 - [Visualizing and understanding recurrent networks](https://arxiv.org/pdf/1506.02078.pdf?ref=https://codemonkey.link) (ICLR, 2016)\
         **keywords**: LSTM, natural language, revealed cells that identify interpretable and high-level patterns, long-range dependency, error analysis
 - [Techniques for Interpretable Machine Learning](https://arxiv.org/pdf/1808.00033.pdf) (CACM, 2019)\
@@ -37,12 +39,18 @@ Here, we organized papers and articles from difference sources to provide a some
 - [Interpreting recurrent neural networks on multivariate time series](https://towardsdatascience.com/interpreting-recurrent-neural-networks-on-multivariate-time-series-ebec0edb8f5a)\
         **keywords**: RNN, multivariate time series, SHAP, instance importance, efficiency
 
+### controversies
+
+- [Attention is not Explanation](https://arxiv.org/pdf/1902.10186.pdf) (arXiv, 2019)\
+        **keywords**: RNN, BiLSTM, binary text classification, question answering, feature importance, Kendall $\tau$ correlation, counterfactual attention weights, adversarial attention
+- [Attention is not not Explanation](https://arxiv.org/pdf/1908.04626.pdf) (arXiv, 2019)\
+        **keywords**: LSTM, binary text classification, uniform attention weights, model variance, MLP diagnostic tool, model-consistent adversarial training, TVD/JSD plots
 
 ## based on interpretation methods
 
 ### SHAP
 
-- [Interpreting a Recurrent Neural Network’s Predictions of ICU Mortality Risk](https://arxiv.org/pdf/1905.09865.pdf) (Journal of Biomedical Informatics, 2021)\
+- [Interpreting a Recurrent Neural Network Predictions of ICU Mortality Risk](https://arxiv.org/pdf/1905.09865.pdf) (Journal of Biomedical Informatics, 2021)\
         **keywords**: LSTM, dt-patient-matrix, Learned Binary Masks (LBM), KernelSHAP
 
 ### composition
@@ -52,12 +60,10 @@ Here, we organized papers and articles from difference sources to provide a some
 - [Visualizing and Understanding Neural Models in NLP](https://arxiv.org/pdf/1506.01066.pdf) (NAACL-HLT, 2016)\
         **keywords**: RNN, LSTM, Bidirectional LSTM, sentiment text, Stanford Sentiment Treebank, compositionality, unit salience
 
-
 ### gradient
 
 - [Interpretation of Prediction Models Using the Input Gradient](https://arxiv.org/pdf/1611.07634.pdf?ref=https://githubhelp.com) (arXiv, 2016)\
         **keywords**: model agnostic, Bag of Words, gradient
-
 
 ### backpropagation
 
@@ -95,6 +101,22 @@ Here, we organized papers and articles from difference sources to provide a some
         **keywords**: autoencoder-prototype, 2-D time series, ECG or respiration or speech waveforms, prototype diversity and robustness
 - [Explainable Tensorized Neural Ordinary Differential Equations for Arbitrary-step Time Series Prediction](https://arxiv.org/pdf/2011.13174.pdf) (IEEE Transactions on Knowledge and Data Engineering, 2022)\
         **keywords**: ETN-ODE, tensorized GRU, multivariate time series, tandem attention, arbitrary-step prediction, multi-step prediction
+- [TSXplain: Demystification of DNN Decisions for Time-Series using Natural Language and Statistical Features](https://arxiv.org/pdf/1905.06175.pdf) (ICANN, 2019)\
+        **keywords**: model-agnostic, time series, textual explanation, statistical feature extraction, anomaly detection
+
+### adversarial training
+
+- [Explainability and Adversarial Robustness for RNNs](https://arxiv.org/pdf/1912.09855.pdf) (BigDataService, 2020)\
+        **keywords**: LSTM, network packet flows, adversarial robustness, feature sensitivity, Partial Dependence Plot (PDP), adversarial training
+- [Adversarial Detection with Model Interpretation](https://people.engr.tamu.edu/xiahu/papers/kdd18liu.pdf) (SIGKDD, 2018)\
+        **keywords**: model-agnostic, Twitter dataset, YelpReview, evasion-prone sample selection, local interpretation, defensive distillation, adversarial training
+
+### counterfactual
+
+- [Counterfactual Explanations for Machine Learning on Multivariate Time Series Data](https://arxiv.org/pdf/2008.10781.pdf) (ICAPAI, 2021)\
+        **keywords**: model-agnostic, multivariate time series, HPC system telemetry datasets, heuristic algorithm, measuring good explanation
+- [Instance-based Counterfactual Explanations for Time Series Classification](https://arxiv.org/pdf/2009.13211.pdf) (ICCBR, 2021)\
+        **keywords**: model-agnostic, time series, UCR archive, properties of good counterfactuals, Native Guide method, w-counterfactual, NUN-CF
 
 ## interpretation evaluation metrics
 
