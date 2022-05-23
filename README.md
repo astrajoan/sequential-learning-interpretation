@@ -42,7 +42,7 @@ Here, we organized papers and articles from difference sources to provide a some
 ### controversies
 
 - [Attention is not Explanation](https://arxiv.org/pdf/1902.10186.pdf) (arXiv, 2019)\
-        **keywords**: RNN, BiLSTM, binary text classification, question answering, feature importance, Kendall $\tau$ correlation, counterfactual attention weights, adversarial attention
+        **keywords**: RNN, BiLSTM, binary text classification, question answering, feature importance, Kendall &#964; correlation, counterfactual attention weights, adversarial attention
 - [Attention is not not Explanation](https://arxiv.org/pdf/1908.04626.pdf) (arXiv, 2019)\
         **keywords**: LSTM, binary text classification, uniform attention weights, model variance, MLP diagnostic tool, model-consistent adversarial training, TVD/JSD plots
 
