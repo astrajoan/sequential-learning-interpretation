@@ -52,6 +52,8 @@ Here, we organized papers and articles from difference sources to provide a some
 
 - [Interpreting a Recurrent Neural Network Predictions of ICU Mortality Risk](https://arxiv.org/pdf/1905.09865.pdf) (Journal of Biomedical Informatics, 2021)\
         **keywords**: LSTM, dt-patient-matrix, Learned Binary Masks (LBM), KernelSHAP
+- [TimeSHAP: Explaining recurrent models through sequence perturbations](https://arxiv.org/pdf/2012.00073.pdf) (SIGKDD, 2021)\
+        **keywords**: model-agnostic recurrent explainer based on KernelSHAP, feature/event/cell wise explanation, pruning method by grouping older events
 
 ### composition
 
@@ -93,6 +95,11 @@ Here, we organized papers and articles from difference sources to provide a some
 - [Understanding Neural Networks through Representation Erasure](https://arxiv.org/pdf/1612.08220.pdf?ref=https://githubhelp.com) (arXiv, 2016)\
         **keywords**: Bi-LSTM, Uni-LSTM, RNN, natural language, lexical, sentiment, document, computing impact of erasure on evaluation metrics, reinforcement learning, erase minimum set of input words to flip a decision
 
+### prototypes
+
+- [Interpretable and steerable sequence learning via prototypes](https://arxiv.org/pdf/1907.09728.pdf) (SIGKDD, 2019)\
+        **keywords**: prototype sequence network, criteria for explainable prototypes, refining with user knowledge by creating/updating/deleting prototypes
+
 ### interpretable model
 
 - [Electric Energy Consumption Prediction by Deep Learning with State Explainable Autoencoder](https://www.mdpi.com/1996-1073/12/4/739/htm) (Energies, 2019)\
@@ -103,6 +110,12 @@ Here, we organized papers and articles from difference sources to provide a some
         **keywords**: ETN-ODE, tensorized GRU, multivariate time series, tandem attention, arbitrary-step prediction, multi-step prediction
 - [TSXplain: Demystification of DNN Decisions for Time-Series using Natural Language and Statistical Features](https://arxiv.org/pdf/1905.06175.pdf) (ICANN, 2019)\
         **keywords**: model-agnostic, time series, textual explanation, statistical feature extraction, anomaly detection
+- [Multilevel wavelet decomposition network for interpretable time series analysis](https://arxiv.org/pdf/1806.08946.pdf) (SIGKDD, 2018)\
+        **keywords**: time series forecasting, multi-frequency LSTM, decomposition into small sub-series, importance score of middle layer
+- [N-BEATS: Neural basis expansion analysis for interpretable time series forecasting](https://arxiv.org/pdf/1905.10437.pdf) (ICLR, 2020)\
+        **keywords**: fully-connected layers with doubly residual stacking, interpretable architecture with trend or seasonality model
+- [Exploring interpretable LSTM neural networks over multi-variable data](https://arxiv.org/pdf/1905.12034.pdf) (ICML, 2019)\
+        **keywords**: interpretable multi-variable LSTM, mixture attention mechanism, training method to learn network parameter and variable/temporal importance
 
 ### adversarial training
 
