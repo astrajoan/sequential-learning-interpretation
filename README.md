@@ -139,5 +139,5 @@ Here, we organized papers and articles from difference sources to provide a some
 - [Evaluation of interpretability methods for multivariate time series forecasting](https://link.springer.com/article/10.1007/s10489-021-02662-2)(Applied Intelligence, 2021)\
         **keywords**: time series forcasting, Area Over the Perturbation Curve, Ablation Percentage Threshold, local fidelity, local explanation
 
--[Validation of XAI explanations for multivariate time series classification in the maritime domain](https://www.sciencedirect.com/science/article/abs/pii/S1877750321001976)(Journal of Computational Science, 2022)\
+- [Validation of XAI explanations for multivariate time series classification in the maritime domain](https://www.sciencedirect.com/science/article/abs/pii/S1877750321001976)(Journal of Computational Science, 2022)\
         **keywords**: LIME, time-slice mapping, SHAP, Path Integrated Gradient, heatmap, perturbation, sequence analysis, noval evaluation technique
