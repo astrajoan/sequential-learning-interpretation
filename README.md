@@ -80,6 +80,20 @@ Here, we organized papers and articles from difference sources to provide a some
         **keywords**: Transformer, Synthetic Control Chart, ECG5000, attention, data abstraction, Symbolic Aggregate Approximation (SAX), according visualization
 - [Focusing on What is Relevant: Time-Series Learning and Understanding using Attention](https://arxiv.org/pdf/1806.08523.pdf) (ICPR, 2018)\
         **keywords**: temporal contextual layer, time series, motion capture, key frame detection, action classification
+- [Spatiotemporal Attention for Multivariate Time Series Prediction and Interpretation](https://ieeexplore.ieee.org/document/9413914) (ICASSP, 2021)\
+        **keywords**: spatial interpretation, spatiotemporal attention mechanism
+- [Uncertainty-Aware Attention for Reliable Interpretation and Prediction](https://proceedings.neurips.cc/paper/2018/file/285e19f20beded7d215102b49d5c09a0-Paper.pdf) (NIPS, 2018)\
+        **keywords**: RNN, risk prediction, attention, variational inference
+- [Topological Attention for Time Series Forecasting](https://proceedings.neurips.cc/paper_files/paper/2021/file/d062f3e278a1fbba2303ff5a22e8c75e-Paper.pdf) (NIPS, 2021)\
+        **keywords**: N-BEATS, univariate time series data, M4 dataset, topological attention
+- [RETAIN: An Interpretable Predictive Model for Healthcare using Reverse Time Attention Mechanism](https://proceedings.neurips.cc/paper_files/paper/2016/file/231141b34c82aa95e48810a9d1b33a79-Paper.pdf) (NIPS, 2016)\
+        **keywords**: RNN, Electronic Health Records, reverse time order
+- [Preserving Dynamic Attention for Long-Term Spatial-Temporal Prediction](https://dl.acm.org/doi/pdf/10.1145/3394486.3403046) (KDD, 2020)\
+        **keywords**: CNN, crowd flow prediction, service utilization prediction, Dynamic Switch-Attention Network (DSAN), Multi-Space Attention (MSA)
+- [Attention based multi-modal new product sales time-series forecasting](https://dl.acm.org/doi/pdf/10.1145/3394486.3403362) (KDD, 2020)\
+        **keywords**: multi-modal encoder-decoder, sales, self-attention
+- [Non-stationary Time-aware Kernelized Attention for Temporal Event Prediction](https://dl.acm.org/doi/pdf/10.1145/3534678.3539470) (KDD, 2022)\
+        **keywords**: Kernelized attention, Electricity Transformer Temperature, PM2.5, Generalized Spectral Mixture Kernel (GSMK) 
 
 ### saliency
 
